@@ -69,9 +69,8 @@ class App extends Component {
   render() {
     return (
       <>
-        <header>header</header>
-        <main>main</main>
-        <footer>footer</footer>
+        <header>The Harry Potter Sorting Hat Quiz</header>
+        <main></main>
       </>
     );
   }
